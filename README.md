@@ -3,10 +3,12 @@
 ##
 <div id="redes">
   <a href="https://www.linkedin.com/in/lucas-rocha-382969241/"><img width="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384171.png"><a>
+  <a href="mailto:guitarralcs@gmail.com"><img width="30" src="https://cdn-icons-png.flaticon.com/512/3178/3178232.png"><a>
+  <a href="https://www.youtube.com/channel/UCfz-WAT8QOtWa06zGJVz5CQ"><img width="30" src="https://cdn-icons-png.flaticon.com/512/747/747888.png"><a>
 </div><!-- REDES-->
 
 ##
-<div id="ling">
+<div id="ling">  
   <img width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png">
   <img width="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
   <img width="30" src="https://user-images.githubusercontent.com/112774866/188330486-135a7f7b-881c-402a-9917-288fee6750b7.png">
