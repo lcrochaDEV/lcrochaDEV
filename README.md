@@ -13,12 +13,15 @@
   <img width="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
   <img width="30" src="https://user-images.githubusercontent.com/112774866/188330486-135a7f7b-881c-402a-9917-288fee6750b7.png">
   <img width="30" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-3.png">
+  <img width="40" src="https://plugins.jetbrains.com/files/18897/166369/icon/pluginIcon.svg"> 
   <!--<img width="30" src="https://dircom.portaldaindustria.com.br/torneiro-de-robotica-2018/assets/imgs/FogueteAnimado.gif">-->
 </div><!-- LINGUAGENS-->
 
 <!--
 **lcrochaDEV/lcrochaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+MARKDOWN
+LINK MAIS IMAGEN
+[![c](https://cdn-icons-png.flaticon.com/512/1384/1384171.png)](https://www.linkedin.com/in/lucas-rocha-382969241/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,4 +32,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+SITE DE MARKDOWN
+https://gist.github.com/AlexandreQuintela/168e6fa0b6fc5c740c8658c9a5086914
+
 -->
