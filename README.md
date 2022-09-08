@@ -19,12 +19,13 @@
   <!--<img width="30" src="https://dircom.portaldaindustria.com.br/torneiro-de-robotica-2018/assets/imgs/FogueteAnimado.gif">-->
 </div><!-- LINGUAGENS-->
 
-
+<!--
 <div>
 <a href="https://github.com/lcrochaDEV">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcrochaDEV&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcrochaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
 <!--
 **lcrochaDEV/lcrochaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 MARKDOWN
