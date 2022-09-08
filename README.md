@@ -1,6 +1,7 @@
 ### Olá!!! Eu sou Lucas Rocha Desenvolvedor
 
 ##
+<h4>Link para Contato</h4>
 <div id="redes">
   <a href="https://www.linkedin.com/in/lucas-rocha-382969241/"><img width="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384171.png"><a>
   <a href="mailto:guitarralcs@gmail.com"><img width="30" src="https://cdn-icons-png.flaticon.com/512/3178/3178232.png"><a>
@@ -8,6 +9,7 @@
 </div><!-- REDES-->
 
 ##
+<h4>Conhecimento em Tecnologias</h4>
 <div id="ling">  
   <img width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png">
   <img width="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
