@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/lucas-rocha-382969241/"><img width="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384171.png"><a>
   <a href="mailto:guitarralcs@gmail.com"><img width="30" src="https://cdn-icons-png.flaticon.com/512/3178/3178232.png"><a>
   <a href="https://www.youtube.com/channel/UCfz-WAT8QOtWa06zGJVz5CQ"><img width="30" src="https://cdn-icons-png.flaticon.com/512/747/747888.png"><a>
+  <a href="https://cursos.alura.com.br/user/guitarralcs"><img width="30" src="https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs=w240-h480-rw"><a>
 </div><!-- REDES-->
 
 ##
