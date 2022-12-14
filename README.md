@@ -5,6 +5,10 @@ Como um cara curioso, estou terminando minha faculdade de Engenharia da Computa√
 
 Preparado em todos os momentos da vida.
 
+
+
+![URL da imagem](https://www.showmetech.com.br/wp-content/uploads/2015/09/happy-minion-gif.gif)
+
 ##
 #### Link para Contato
 <div id="redes">
