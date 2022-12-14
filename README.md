@@ -7,7 +7,7 @@ Preparado em todos os momentos da vida.
 
 
 
-![URL da imagem](https://www.showmetech.com.br/wp-content/uploads/2015/09/happy-minion-gif.gif)
+![URL da imagem](https://c.tenor.com/y1VGwGBAbT4AAAAd/minion-otto.gif)
 
 ##
 #### Link para Contato
