@@ -7,7 +7,7 @@ Preparado em todos os momentos da vida.
 
 
 
-![URL da imagem](https://c.tenor.com/y1VGwGBAbT4AAAAd/minion-otto.gif)
+![URL da imagem]()
 
 ##
 #### Link para Contato
