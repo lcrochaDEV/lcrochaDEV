@@ -5,7 +5,7 @@ Como um cara curioso, estou terminando minha faculdade de Engenharia da Computa√
 
 Preparado em todos os momentos da vida.
 
-
+  <img width="100" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png?raw=true">
 
 ![URL da imagem]()
 
