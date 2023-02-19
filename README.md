@@ -5,10 +5,11 @@ Como um cara curioso, estou terminando minha faculdade de Engenharia da Computa√
 
 Preparado em todos os momentos da vida.
 
-  <img width="100" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png?raw=true">
-
-![URL da imagem]()
-
+<div id="logo">
+   
+  # <img width="150" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png?raw=true">Lucas PuG 
+</div><!--LOGO-->
+ 
 ##
 #### Link para Contato
 <div id="redes">
