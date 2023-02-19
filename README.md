@@ -7,7 +7,7 @@ Preparado em todos os momentos da vida.
 
 <div id="logo">
    
-  # <img width="150" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png?raw=true">Lucas PuG 
+  # <img width="150" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png?raw=true">
 </div><!--LOGO-->
  
 ##
