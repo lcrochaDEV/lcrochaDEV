@@ -1,15 +1,16 @@
-### Olá Mundo!!! Eu sou Lucas Rocha Desenvolvedor.  
-Sou Técnico em Telecomunicações atuo na área de dodos em uma grande operadora Brasileira.
 
-Como um cara curioso, estou terminando minha faculdade de Engenharia da Computação, e dando duro aqui para expandir meus conhecimentos e agregar mais, tanto na área de atuação, e também expandir para uma novas área, se preciso for.
 
-Preparado em todos os momentos da vida.
+   ### Olá Mundo!!! Eu sou Lucas Rocha Desenvolvedor.  
+   Sou Técnico em Telecomunicações atuo na área de dodos em uma grande operadora Brasileira.
 
-<div id="logo">
-   
-<img width="150" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png">
+   Como um cara curioso, estou terminando minha faculdade de Engenharia da Computação, e dando duro aqui para expandir meus conhecimentos e agregar mais, tanto na área de atuação, e também expandir para uma novas área, se preciso for.
+
+   Preparado em todos os momentos da vida.
+ <div id="logo" align="right" >
+   <img width="150" style="" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png">
+
 </div><!--LOGO-->
- 
+  
 ##
 #### Link para Contato
 <div id="redes">
