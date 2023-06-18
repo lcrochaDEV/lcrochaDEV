@@ -1,6 +1,4 @@
-
-
-   ### Olá Mundo!!! Eu sou Lucas Rocha Desenvolvedor.  
+### Olá Mundo!!! Eu sou Lucas Rocha Desenvolvedor.  
    Sou Técnico em Telecomunicações atuo na área de dados em uma grande operadora Brasileira.
 
    Como um cara curioso, estou terminando minha faculdade de Engenharia da Computação, e dando duro aqui para expandir meus conhecimentos e agregar mais, tanto na área de atuação, e também expandir para uma novas área, se preciso for.
@@ -59,3 +57,4 @@ SITE DE MARKDOWN
 https://gist.github.com/AlexandreQuintela/168e6fa0b6fc5c740c8658c9a5086914
 
 -->
+
