@@ -28,7 +28,7 @@
   <img width="30" src="https://user-images.githubusercontent.com/112774866/188330486-135a7f7b-881c-402a-9917-288fee6750b7.png">
   <img width="30" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-3.png">
   <img width="40" src="https://plugins.jetbrains.com/files/18897/166369/icon/pluginIcon.svg">
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> 
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> 
   <!--<img width="30" src="https://dircom.portaldaindustria.com.br/torneiro-de-robotica-2018/assets/imgs/FogueteAnimado.gif">-->
 </div><!-- LINGUAGENS-->
 
