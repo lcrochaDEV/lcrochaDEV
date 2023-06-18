@@ -23,12 +23,12 @@
 ##
 #### Conhecimento em Tecnologias
 <div id="ling">  
-  <img width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png">
-  <img width="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
-  <img width="30" src="https://user-images.githubusercontent.com/112774866/188330486-135a7f7b-881c-402a-9917-288fee6750b7.png">
-  <img width="30" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-3.png">
-  <img width="40" src="https://plugins.jetbrains.com/files/18897/166369/icon/pluginIcon.svg">
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> 
+  <img width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png" style="max-width: 100%;">
+  <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  <img width="40" src="https://plugins.jetbrains.com/files/18897/166369/icon/pluginIcon.svg" style="max-width: 100%;">
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="max-width: 100%;"> 
   <!--<img width="30" src="https://dircom.portaldaindustria.com.br/torneiro-de-robotica-2018/assets/imgs/FogueteAnimado.gif">-->
 </div><!-- LINGUAGENS-->
 
