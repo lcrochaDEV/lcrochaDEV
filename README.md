@@ -1,7 +1,7 @@
 ### Olá Mundo!!! Eu sou Lucas Rocha Desenvolvedor.  
    Sou Técnico em Telecomunicações atuo na área de dados em uma grande operadora Brasileira.
 
-   Como um cara curioso, estou terminando minha faculdade de Engenharia da Computação, e dando duro aqui para expandir meus conhecimentos e agregar mais, tanto na área de atuação, e também expandir para uma novas área, se preciso for.
+   Como um cara curioso, estou terminando minha faculdade de Engenharia da Computação, e dando duro aqui para expandir meus conhecimentos e agregar mais, tanto na área de atuação, e também expandir para uma nova área, se preciso for.
 
    Preparado em todos os momentos da vida.
  <div id="logo" align="right" style="max-width: 100%;">
