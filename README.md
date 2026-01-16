@@ -37,6 +37,7 @@
   <img width="12" />
   <img height="60"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png" style="max-width: 100%;"> 
   <img width="12" />
+  <img height="60"  src="https://raw.githubusercontent.com/canallucasrocha/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
