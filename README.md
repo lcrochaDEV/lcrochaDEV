@@ -14,7 +14,7 @@
  <h1 align="center"></h1>
  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img height="60" src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" style="max-width: 100%;"/>
   <img width="12" />
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img width="12" />
