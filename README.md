@@ -1,61 +1,57 @@
-### Olá Mundo!!! Eu sou Lucas Rocha Desenvolvedor.  
+<h1 align="center">Olá Mundo!!! Eu sou Lucas Rocha Desenvolvedor</h1>
+
+###
+
    Sou Técnico em Telecomunicações atuo na área de dados em uma grande operadora Brasileira.
 
    Como um cara curioso, estou terminando minha faculdade de Engenharia da Computação, e dando duro aqui para expandir meus conhecimentos e agregar mais, tanto na área de atuação, e também expandir para uma nova área, se preciso for.
 
    Preparado em todos os momentos da vida.
- <div id="logo" align="right" style="max-width: 100%;">
-   <img width="150" style="" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png">
+ <div id="logo" align="left" style="max-width: 100%;">
+   <img width="200" height="200" style="" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png">
+ </div><!--LOGO-->
 
-</div><!--LOGO-->
-  
-##
-#### Link para Contato
-<div id="redes">
-  <a href="https://www.linkedin.com/in/lucas-rocha-382969241/"><img width="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384171.png"><a>
-  <a href="mailto:guitarralcs@gmail.com"><img width="30" src="https://cdn-icons-png.flaticon.com/512/3178/3178232.png"><a>
-  <a href="https://www.youtube.com/channel/UCfz-WAT8QOtWa06zGJVz5CQ"><img width="30" src="https://cdn-icons-png.flaticon.com/512/747/747888.png"><a>
-  <a href="https://cursos.alura.com.br/user/guitarralcs"><img width="30" src="https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs=w240-h480-rw"><a>
-</div><!-- REDES-->
-
-##
-#### Conhecimento em Tecnologias
-<div id="ling">  
-  <!--<img width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png" style="max-width: 100%;">-->
-   <img width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png" style="max-width: 100%;"> 
-   <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-   <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-   <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="max-width: 100%;"> 
-   <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" style="max-width: 100%;"> 
-  <!--<img width="30" src="https://dircom.portaldaindustria.com.br/torneiro-de-robotica-2018/assets/imgs/FogueteAnimado.gif">-->
-</div><!-- LINGUAGENS-->
-
-<!--
-<div>
-<a href="https://github.com/lcrochaDEV">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcrochaDEV&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcrochaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <h1 align="center"></h1>
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+  <img width="12" />
+  <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  <img width="12" />
+  <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  <img width="12" />
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="max-width: 100%;"> 
+  <img width="12" />
+  <img height="60"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_line_logo_icon_146582.png" style="max-width: 100%;"> 
+  <img width="12" />
 </div>
--->
-<!--
-**lcrochaDEV/lcrochaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-MARKDOWN
-LINK MAIS IMAGEN
-[![c](https://cdn-icons-png.flaticon.com/512/1384/1384171.png)](https://www.linkedin.com/in/lucas-rocha-382969241/)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-rocha-382969241/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="mailto:guitarralcs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" /></a>
+</div>
 
-SITE DE MARKDOWN
-https://gist.github.com/AlexandreQuintela/168e6fa0b6fc5c740c8658c9a5086914
+###
 
--->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+
 
