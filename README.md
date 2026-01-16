@@ -54,5 +54,3 @@
 </picture>
 
 
-![Pacman Dark](https://raw.githubusercontent.com)
-
