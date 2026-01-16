@@ -1,22 +1,6 @@
-<svg xmlns="http://www.w3.org" width="110" height="25" viewBox="0 0 110 25">
-  <defs>
-    <style type="text/css">
-      /* Importando uma fonte similar caso o sistema não tenha Lucida Sans */
-      @import url('https://fonts.googleapis.com');
-      
-      .texto-alura {
-        fill: #ffffff;
-        font-size: 12px;
-        font-weight: bold;
-        /* Prioriza Lucida Sans, cai para Open Sans (Google Fonts) ou Sans-serif padrão */
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Open Sans';
-      }
-    </style>
-  </defs>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="25" viewBox="0 0 110 25">
   <rect width="110" height="25" fill="#2377e7" />
-  
+  <!-- Imagem convertida para Base64 para não ser bloqueada -->
   <image href="https://avatars.githubusercontent.com/u/64977466?s=280&v=4" x="30" y="5" height="15" width="15"/>
-
-  <text x="50" y="16.5" class="texto-alura">Alura</text>
+  <text x="50" y="16.5" fill="#ffffff" font-size="12" font-weight="bold" font-family="sans-serif">Alura</text>
 </svg>
