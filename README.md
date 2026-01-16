@@ -26,7 +26,6 @@
    <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-   <img width="40" src="https://plugins.jetbrains.com/files/18897/166369/icon/pluginIcon.svg" style="max-width: 100%;">
    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="max-width: 100%;"> 
    <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" style="max-width: 100%;"> 
   <!--<img width="30" src="https://dircom.portaldaindustria.com.br/torneiro-de-robotica-2018/assets/imgs/FogueteAnimado.gif">-->
