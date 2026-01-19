@@ -28,19 +28,3 @@ jobs:
           mkdir -p dist
           cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
           cp pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
-
-      # 4. Publicar gráfico na branch 'output'
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 5. Atualizar Badges do Credly no seu README
-      - name: Update Credly Badges
-        uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: lucas-rocha.e2b61fbf
-          NUMBER_LAST_BADGES: 12
