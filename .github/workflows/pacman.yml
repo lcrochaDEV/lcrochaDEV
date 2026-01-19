@@ -23,7 +23,7 @@ jobs:
         run: |
           mkdir -p dist
           # Procura o arquivo gerado e move para a pasta dist
-          find . -name "pacman-contribution-graph.svg" -exec cp {} dist/pacman-contribution-graph.svg \;
+          find . -name "pacman-contribution-graph.svg" -exec cp {} dist/pacman-contribution-graph-dark.svg \;
           find . -name "pacman-contribution-graph.svg" -exec cp {} dist/pacman-contribution-graph-dark.svg \;
           
           # Verifica se o arquivo foi realmente copiado para evitar erro no próximo passo
