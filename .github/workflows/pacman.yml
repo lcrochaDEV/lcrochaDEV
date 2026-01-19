@@ -21,16 +21,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_background: "transparent"
 
-      - name: Organize files
-        run: |
-          mkdir -p dist
-          # Procura o arquivo gerado e move para a pasta dist
-          find . -name "pacman-contribution-graph.svg" -exec cp {} dist/pacman-contribution-graph-dark.svg \;
-          find . -name "pacman-contribution-graph.svg" -exec cp {} dist/pacman-contribution-graph-dark.svg \;
-          
-          # Verifica se o arquivo foi realmente copiado para evitar erro no próximo passo
-          ls -R dist/
-
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
