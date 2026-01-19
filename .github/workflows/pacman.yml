@@ -22,9 +22,9 @@ jobs:
       - name: Organize files
         run: |
           mkdir -p dist
-          # A action gera um arquivo chamado github-contribution-grid-snake.svg
-          cp github-contribution-grid-snake.svg dist/pacman-contribution-graph.svg
-          cp github-contribution-grid-snake.svg dist/pacman-contribution-graph-dark.svg
+          # O nome correto gerado pela action do pacman é este:
+          cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
+          cp pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
