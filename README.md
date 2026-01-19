@@ -78,6 +78,11 @@
   <a href="https://www.credly.com/badges/63b71f87-0149-45ff-a224-75df5e03eb75" target="_blank" rel="noopener noreferrer"><img width="100" src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco" width="180"></a
 </div>
 
+###
+
 ## 📜 Certificações
+
 <!-- START_SECTION:badges -->
 <!-- END_SECTION:badges -->
+
+###
