@@ -10,6 +10,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Badges from Credly
       - uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: lucas-rocha.e2b61fbf
