@@ -86,3 +86,16 @@
 <!-- END_SECTION:badges -->
 
 ###
+
+### 🎓 Formações Alura
+<div>
+  <a href="https://cursos.alura.com.br" target="_blank">
+    <img src="https://img.shields.io" alt="Formação React">
+    <img src="https://img.shields.io" alt="Formação Node.js">
+    <img src="https://img.shields.io" alt="Formação Python">
+    <img src="https://img.shields.io" alt="Formação Full Stack">
+  </a>
+</div>
+
+###
+
