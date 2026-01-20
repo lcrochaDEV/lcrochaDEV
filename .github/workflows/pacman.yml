@@ -17,7 +17,7 @@ jobs:
         with:
           # Mantendo apenas o que o seu log validou como correto
           github_user_name: lcrochaDEV
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
