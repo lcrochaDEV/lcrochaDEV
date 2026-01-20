@@ -18,3 +18,5 @@ jobs:
         with:
           CREDLY_USER: lucas-rocha.e2b61fbf
           NUMBER_LAST_BADGES: 12
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
