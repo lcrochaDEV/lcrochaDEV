@@ -18,3 +18,4 @@ jobs:
         with:
           CREDLY_USER: lucas-rocha.e2b61fbf
           NUMBER_LAST_BADGES: 12
+          README_FILE: README.md  # <--- Adicione esta linha
