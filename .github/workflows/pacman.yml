@@ -12,12 +12,9 @@ jobs:
       - name: Generate Snake Files
         uses: platane/snk@v3
         with:
-          # Use APENAS os campos validados pelo erro:
+          # Mantido apenas o que o seu log validou como correto
           github_user_name: lcrochaDEV
-        env:
-          # O token e as saídas entram como variáveis de ambiente se o 'with' falhar
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
