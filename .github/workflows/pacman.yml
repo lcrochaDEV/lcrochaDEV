@@ -1,10 +1,14 @@
-name: Generate Pacman Game
+name: Generate Snake Game
 
 on:
   schedule:
     - cron: "0 0 * * *" 
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
+# Adicione permissões para evitar erros de 'Permission Denied'
 permissions:
   contents: write
 
@@ -15,14 +19,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Files
+      - name: Generate Snake Files
         uses: platane/snk@v3
         with:
-          github_user_name: lcrochaDEV
-          # O segredo está em definir o 'outputs' para criar a pasta dist
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#f4df11&color_dots=#ebedf0,#ffc5c2,#fb9b9b,#ff5c5c,#ff0303
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f4df11&color_dots=#161b22,#ffc5c2,#fb9b9b,#ff5c5c,#ff0303
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
