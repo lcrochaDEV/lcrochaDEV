@@ -12,10 +12,9 @@ jobs:
     permissions:
       contents: write 
     steps:
-      - name: Badges - Readme
+      - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          #CREDLY_USER: lucas-rocha.e2b61fbf
+          CREDLY_USER: lucas-rocha.e2b61fbf
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NUMBER_LAST_BADGES: 36
-          # A versão 3.1.0+ já ordena por data (newest first) automaticamente
