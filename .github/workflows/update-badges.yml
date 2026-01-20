@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update Badges from Credly
-      - uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: lucas-rocha.e2b61fbf
           NUMBER_LAST_BADGES: 12
