@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,11 +15,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Files
+      - name: Generate Pacman Files
         uses: platane/snk@v3
         with:
-          # Mantendo apenas o que o seu log validou como correto
           github_user_name: lcrochaDEV
+          # O segredo está em definir o 'outputs' para criar a pasta dist
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#f4df11&color_dots=#ebedf0,#ffc5c2,#fb9b9b,#ff5c5c,#ff0303
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f4df11&color_dots=#161b22,#ffc5c2,#fb9b9b,#ff5c5c,#ff0303
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
