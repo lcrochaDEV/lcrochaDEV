@@ -9,18 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
       - name: Generate Snake Files
         uses: platane/snk@v3
         with:
+          # Use exatamente estes campos dentro do 'with'
           github_user_name: lcrochaDEV
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
