@@ -1,14 +1,14 @@
 name: Update Badges
 on:
   schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
+    - cron: "0 2 * * *" # Roda diariamente às 02:00 UTC
+  workflow_dispatch:   # Permite rodar manualmente para testar agora
 
 jobs:
   update-badges:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Obrigatório para a Action fazer commit no seu README
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
