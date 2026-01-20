@@ -12,6 +12,7 @@ jobs:
       - name: Generate Snake Files
         uses: platane/snk@v3
         with:
+          # APENAS os campos que o seu log validou como corretos:
           github_user_name: lcrochaDEV
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -19,6 +20,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: github-contribution-grid-snake.svg
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
