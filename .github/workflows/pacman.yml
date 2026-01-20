@@ -10,14 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Files
-        uses: platane/snk@v3
+        uses: platane/snk@master # Usar @master garante a versão mais estável
+        id: snake-gif
         with:
-          # Use APENAS os campos que o erro validou como corretos:
           github_user_name: lcrochaDEV
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # As versões novas usam 'gif_out_path' e 'svg_out_path' se o 'outputs' falhar
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
