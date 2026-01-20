@@ -12,7 +12,7 @@ jobs:
       - name: Generate Snake Files
         uses: platane/snk@v3
         with:
-          # Use exatamente estes campos dentro do 'with'
+          # Use APENAS os campos que o erro validou como corretos:
           github_user_name: lcrochaDEV
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
