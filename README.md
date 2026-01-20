@@ -86,16 +86,19 @@
 <!-- END_SECTION:badges -->
 
 ###
-
 ### 🎓 Formações Alura
-<div>
-  <a href="https://cursos.alura.com.br" target="_blank">
+<div align="left">
+  <a href="https://cursos.alura.com.br/user/guitarralcs" target="_blank">
     <img src="https://img.shields.io" alt="Formação React">
     <img src="https://img.shields.io" alt="Formação Node.js">
     <img src="https://img.shields.io" alt="Formação Python">
     <img src="https://img.shields.io" alt="Formação Full Stack">
+    <img src="https://img.shields.io" alt="Formação Telecom">
   </a>
 </div>
+
+*Visualize todas as minhas conclusões e cursos no [Perfil Público Alura](https://cursos.alura.com.br/user/guitarralcs).*
+
 
 ###
 
