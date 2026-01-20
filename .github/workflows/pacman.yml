@@ -1,14 +1,10 @@
-name: Generate Snake Game
+name: Generate Pacman Game
 
 on:
   schedule:
     - cron: "0 0 * * *" 
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
-# Adicione permissões para evitar erros de 'Permission Denied'
 permissions:
   contents: write
 
@@ -19,15 +15,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Files
-        uses: platane/snk@v3
+      # Cria a pasta dist para evitar o erro "Build dir does not exist"
+      - name: Create Dist Directory
+        run: mkdir -p dist
+
+      - name: Generate Pacman Files
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: lcrochaDEV
+          # Esta action gera o arquivo dist/out.svg por padrão
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
