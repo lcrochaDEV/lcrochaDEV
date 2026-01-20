@@ -2,13 +2,16 @@ name: Generate Pacman Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake Files
         uses: platane/snk@v3
         with:
