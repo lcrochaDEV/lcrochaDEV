@@ -75,12 +75,34 @@
 <!-- Badge no HTML -->
 <h1 align="center"></h1>
 
-![<url-of-image>](https://www.netacad.com/sfa-assets/images/svg/netacad_logo_black.svg)
+![<Cisco>](https://www.netacad.com/sfa-assets/images/svg/netacad_logo_black.svg)
 
 <div align="left">
-   <a href="https://www.credly.com/badges/fb5f4478-6430-43eb-bd68-bc715e773fa5" target="_blank" rel="noopener noreferrer"><img  src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="100" alt="linkedin logo"  /></a>
-  <a href="https://www.credly.com/badges/1fb38d38-2ac4-42c3-ba89-cf8f5a516ba4" target="_blank" rel="noopener noreferrer"><img width="100" src="https://images.credly.com/size/680x680/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" alt="Cisco" width="180"></a>
-  <a href="https://www.credly.com/badges/63b71f87-0149-45ff-a224-75df5e03eb75" target="_blank" rel="noopener noreferrer"><img width="100" src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco" width="180"></a>
+   <a href="https://www.credly.com/badges/fb5f4478-6430-43eb-bd68-bc715e773fa5" target="_blank" rel="noopener noreferrer"><img  src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="100" alt="linkedin logo"  title="JavaScript Essentials 1"/></a>
+  <a href="https://www.credly.com/badges/1fb38d38-2ac4-42c3-ba89-cf8f5a516ba4" target="_blank" rel="noopener noreferrer"><img width="100" src="https://images.credly.com/size/680x680/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" alt="Cisco" width="180" title="JavaScript Essentials 2"/></a>
+  <a href="https://www.credly.com/badges/63b71f87-0149-45ff-a224-75df5e03eb75" target="_blank" rel="noopener noreferrer"><img width="100" src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco" width="180" title="Fundamentos do Python 1" /></a>
 </div>
 
 ###
+
+<h1 align="center"></h1>
+
+![<Dio>](https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)
+
+
+<a href="https://www.dio.me/certificate/TSIEQR2Z/share" target="_blank" rel="noopener noreferrer"><img width="100" src="https://assets.dio.me/3Ss1KnV-e_8kAdzTIEMO1e2-AIRj3GqEcUTHnx50zCU/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYzYxZTg0YzMtMDA0MS00NzZmLThmMjEtOTRiYzRjMDRiZDU1LnBuZw" alt="Cisco" width="180" title="Introdução ao MongoDB e Bancos de Dados NoSQL"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
