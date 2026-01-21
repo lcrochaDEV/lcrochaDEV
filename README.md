@@ -85,13 +85,6 @@
 
 ###
 
-<h1 align="center"></h1>
-
-![<Dio>](https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)
-
-
-<a href="https://www.dio.me/certificate/TSIEQR2Z/share" target="_blank" rel="noopener noreferrer"><img width="100" src="https://assets.dio.me/3Ss1KnV-e_8kAdzTIEMO1e2-AIRj3GqEcUTHnx50zCU/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYzYxZTg0YzMtMDA0MS00NzZmLThmMjEtOTRiYzRjMDRiZDU1LnBuZw" alt="Cisco" width="180" title="Introdução ao MongoDB e Bancos de Dados NoSQL"></a>
-
 
 
 
