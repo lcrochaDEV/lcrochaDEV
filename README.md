@@ -74,6 +74,9 @@
 ### 🏆 Certificados:
 <!-- Badge no HTML -->
 <h1 align="center"></h1>
+
+![<url-of-image>](https://www.netacad.com/sfa-assets/images/svg/netacad_logo_black.svg)
+
 <div align="left">
    <a href="https://www.credly.com/badges/fb5f4478-6430-43eb-bd68-bc715e773fa5" target="_blank" rel="noopener noreferrer"><img  src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="100" alt="linkedin logo"  /></a>
   <a href="https://www.credly.com/badges/1fb38d38-2ac4-42c3-ba89-cf8f5a516ba4" target="_blank" rel="noopener noreferrer"><img width="100" src="https://images.credly.com/size/680x680/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" alt="Cisco" width="180"></a>
