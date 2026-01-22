@@ -27,9 +27,10 @@
    ### 📫 Vamos nos conectar?
    Estou sempre aberto a novos projetos, colaborações e trocas de conhecimento sobre o mundo tech!
    
-
- <h1 align="center"></h1>
-
+  <div align="left">
+   <h2 aling="center">Tecnologias <img width="30" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" /></h2>
+  </div>
+  
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
