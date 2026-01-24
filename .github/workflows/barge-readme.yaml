@@ -16,7 +16,7 @@ jobs:
 
       - name: Get Alura Badges
         # Substitua pelo seu usuário e nome do repo onde está o bot
-        uses: lucasDEV/barge-readme@main
+        uses: lcrochaDEV/barge-readme@main
         with:
           username: 'guitarralcs'
           badge_limit: '20'
