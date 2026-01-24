@@ -15,8 +15,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Get Alura Badges
-        # Substitua pelo seu usuário e nome do repo onde está o bot
+        # Aqui ele chama o SEU repositório como se fosse uma biblioteca
         uses: lcrochaDEV/barge-readme@main
         with:
-          username: 'guitarralcs'
-          badge_limit: '20'
+          username: 'guitarralcs' # O usuário Alura do seu amigo
+          badge_limit: '20'       # O limite que ele desejar
