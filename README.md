@@ -178,8 +178,7 @@
 
 <h1 align="center"></h1>
 
-<!--START_SECTION_ALURA
-<a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-ii-aprofundando-ordenacao-busca/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-ii-aprofundando-ordenacao-busca.svg" title="Algoritmos com JavaScript II alt="Algoritmos com JavaScript II" width="60px" margin="5px"/></a>
+<!--<a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-ii-aprofundando-ordenacao-busca/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-ii-aprofundando-ordenacao-busca.svg" title="Algoritmos com JavaScript II alt="Algoritmos com JavaScript II" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/expressoes-regulares/certificate"><img src="https://www.alura.com.br/assets/api/cursos/expressoes-regulares.svg" title="Expressões regulares alt="Expressões regulares" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/http-entendendo-web-por-baixo-dos-panos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/http-entendendo-web-por-baixo-dos-panos.svg" title="HTTP alt="HTTP" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-i-algoritmos-ordenacao/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-i-algoritmos-ordenacao.svg" title="JavaScript I alt="JavaScript I" width="60px" margin="5px"/></a>
@@ -198,8 +197,7 @@
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-metodos-array/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-metodos-array.svg" title="JavaScript alt="JavaScript" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/fundamentos-javascript-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/fundamentos-javascript-objetos.svg" title="JavaScript alt="JavaScript" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-objetos.svg" title="JavaScript alt="JavaScript" width="60px" margin="5px"/></a>
-<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-passos-programacao-orientada-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-passos-programacao-orientada-objetos.svg" title="JavaScript alt="JavaScript" width="60px" margin="5px"/></a>
-END_SECTION_ALURA:badges-->
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-passos-programacao-orientada-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-passos-programacao-orientada-objetos.svg" title="JavaScript alt="JavaScript" width="60px" margin="5px"/></a>:badges-->
 
 ###
 
