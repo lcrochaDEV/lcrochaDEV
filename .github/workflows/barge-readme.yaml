@@ -1,0 +1,22 @@
+name: Update My Alura Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get Alura Badges
+        # Substitua pelo seu usuário e nome do repo onde está o bot
+        uses: lucasDEV/barge-readme@main
+        with:
+          username: 'guitarralcs'
+          badge_limit: '20'
