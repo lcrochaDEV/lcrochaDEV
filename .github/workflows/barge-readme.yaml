@@ -19,6 +19,10 @@ jobs:
         uses: lcrochaDEV/barge-readme@main
         with:
           username: 'guitarralcs' # O usuário Alura do seu amigo
-          start_marker: '<!--START_SECTION_ALURA:badges-->'
-          end_marker: '<!--END_SECTION_ALURA:badges-->'
+          start_marker: 'START_SECTION_ALURA'
+          end_marker: 'END_SECTION_ALURA'
           badge_limit: '20'       # O limite que ele desejar
+
+
+#<!--START_SECTION_ALURA:badges-->
+#<!--END_SECTION_ALURA:badges-->
