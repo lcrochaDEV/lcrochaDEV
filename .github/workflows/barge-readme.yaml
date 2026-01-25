@@ -1,4 +1,4 @@
-name: Update My Alura Badges
+name: Update Badges
 
 on:
   schedule:
@@ -19,8 +19,8 @@ jobs:
         uses: lcrochaDEV/barge-readme@main
         with:
           username: 'guitarralcs' # O usuário Alura do seu amigo
-          start_section: '<!--START_SECTION:badges-->'
-          end_section: '<!--END_SECTION:badges-->'
+          start_section: '<!--START_SECTION_ALURA:badges-->'
+          end_section: '<!--END_SECTION_ALURA:badges-->'
           badge_limit: '20'       # O limite que ele desejar
 
 
