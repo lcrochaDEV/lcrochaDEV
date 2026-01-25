@@ -88,6 +88,8 @@
 
 <h1 align="center"></h1>
 
+![<Alura>](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
+
 <!--START_SECTION_ALURA:badges-->
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-ii-aprofundando-ordenacao-busca/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-ii-aprofundando-ordenacao-busca.svg" title="Algoritmos com JavaScript II" alt="Algoritmos com JavaScript II" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/expressoes-regulares/certificate"><img src="https://www.alura.com.br/assets/api/cursos/expressoes-regulares.svg" title="Expressões regulares" alt="Expressões regulares" width="60px" margin="5px"/></a>
