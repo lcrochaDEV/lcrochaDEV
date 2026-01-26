@@ -91,226 +91,26 @@
 ![<Alura>](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
 
 <!--START_SECTION_ALURA:badges-->
-<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-ii-aprofundando-ordenacao-busca/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-ii-aprofundando-ordenacao-busca.svg" title="Algoritmos com JavaScript II" alt="Algoritmos com JavaScript II" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">Algoritmos com JavaScript II</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/expressoes-regulares/certificate"><img src="https://www.alura.com.br/assets/api/cursos/expressoes-regulares.svg" title="Expressões regulares" alt="Expressões regulares" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">Expressões regulares</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">Expressões regulares: capturando textos de forma mágica</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/http-entendendo-web-por-baixo-dos-panos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/http-entendendo-web-por-baixo-dos-panos.svg" title="HTTP" alt="HTTP" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">HTTP</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">HTTP: entendendo a web por baixo dos panos</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-i-algoritmos-ordenacao/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-i-algoritmos-ordenacao.svg" title="JavaScript I" alt="JavaScript I" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript I</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript I: algoritmos de ordenação</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-web-armazenando-dados-navegador/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-web-armazenando-dados-navegador.svg" title="JavaScript na Web" alt="JavaScript na Web" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript na Web</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript na Web: armazenando dados no navegador</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-web-paginas-dinamicas/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg" title="JavaScript para Web" alt="JavaScript para Web" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript para Web</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript para Web: Crie páginas dinâmicas</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-es6-orientacao-a-objetos-parte-2/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-2.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: aprofundando em MVC, padrão Proxy e Factory</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-arrays/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-arrays.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: Arrays</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/fundamentos-javascript-arrays/certificate"><img src="https://www.alura.com.br/assets/api/cursos/fundamentos-javascript-arrays.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: Arrays</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-orientacao-a-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-orientacao-a-objetos.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: classes e heranças no desenvolvimento de aplicações com orientação a objetos</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-es6-orientacao-a-objetos-parte-1/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-1.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: conhecendo o Browser e padrões de projeto</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-consumindo-tratando-dados-api/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-consumindo-tratando-dados-api.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: consumindo e tratando dados de uma API</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-criando-requisicoes/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-criando-requisicoes.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: criando requisições</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-elementos-dom/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-elementos-dom.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: manipulando elementos no DOM</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-dom/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-dom.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: manipulando o DOM</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-objetos.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: manipulando objetos</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-metodos-array/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-metodos-array.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: métodos de array</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/fundamentos-javascript-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/fundamentos-javascript-objetos.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: objetos</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-objetos.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: objetos</p>
-			</div>
-		
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
-				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
-					<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-passos-programacao-orientada-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-passos-programacao-orientada-objetos.svg" title="JavaScript" alt="JavaScript" style="width: 25px;"/></a>
-					<img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" style="width: 20px; filter: brightness(0) invert(1); margin: 0 5px; position: relative; top: 3px"/>
-				</div>
-				<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=410&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; transform: rotate(180deg); position: absolute; z-index:0;"/>
-				<h4 style="font-size: 6px; position: relative; bottom: 16px; margin: 10px 25px;">JavaScript</h4>
-				<p style="font-size: 6px; text-align: left; position: relative; bottom: 20px; z-index: 1; padding-left: 3px; text-shadow: 5px 5px 0 rgba(130, 58, 203, 0.578); overflow-wrap: break-word; word-wrap: break-word; line-height: 1.1;">JavaScript: programação orientada a objetos</p>
-			</div>
-		
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-ii-aprofundando-ordenacao-busca/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-ii-aprofundando-ordenacao-busca.svg" title="Algoritmos com JavaScript II" alt="Algoritmos com JavaScript II" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/expressoes-regulares/certificate"><img src="https://www.alura.com.br/assets/api/cursos/expressoes-regulares.svg" title="Expressões regulares" alt="Expressões regulares" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/http-entendendo-web-por-baixo-dos-panos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/http-entendendo-web-por-baixo-dos-panos.svg" title="HTTP" alt="HTTP" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-i-algoritmos-ordenacao/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-i-algoritmos-ordenacao.svg" title="JavaScript I" alt="JavaScript I" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-web-armazenando-dados-navegador/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-web-armazenando-dados-navegador.svg" title="JavaScript na Web" alt="JavaScript na Web" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-web-paginas-dinamicas/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-web-paginas-dinamicas.svg" title="JavaScript para Web" alt="JavaScript para Web" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-es6-orientacao-a-objetos-parte-2/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-2.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-arrays/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-arrays.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/fundamentos-javascript-arrays/certificate"><img src="https://www.alura.com.br/assets/api/cursos/fundamentos-javascript-arrays.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-orientacao-a-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-orientacao-a-objetos.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-es6-orientacao-a-objetos-parte-1/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-1.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-consumindo-tratando-dados-api/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-consumindo-tratando-dados-api.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-criando-requisicoes/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-criando-requisicoes.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-elementos-dom/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-elementos-dom.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-dom/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-dom.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-objetos.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-metodos-array/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-metodos-array.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/fundamentos-javascript-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/fundamentos-javascript-objetos.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-objetos.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+<a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-passos-programacao-orientada-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-passos-programacao-orientada-objetos.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
 <!--END_SECTION_ALURA:badges-->
 
 ###
