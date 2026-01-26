@@ -91,7 +91,7 @@
 ![<Alura>](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
 
 <!--START_SECTION_ALURA:badges-->
-			<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+<div style="border-radius: 5px; width: 60px; height: 60px; margin: 5px; background-color: rgb(130, 58, 203); color: aliceblue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
 				<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" style="width: 60px; border-top-left-radius: 5px; border-top-right-radius: 5px; position: absolute; z-index:0;"/>
 				<div class="alura" style="display: flex; position: relative; z-index:1; padding: 3px 3px; position: relative; z-index:1;">
 					<a href="https://cursos.alura.com.br/user/guitarralcs/course/algoritmos-javascript-ii-aprofundando-ordenacao-busca/certificate"><img src="https://www.alura.com.br/assets/api/cursos/algoritmos-javascript-ii-aprofundando-ordenacao-busca.svg" title="Algoritmos com JavaScript II" alt="Algoritmos com JavaScript II" style="width: 25px;"/></a>
