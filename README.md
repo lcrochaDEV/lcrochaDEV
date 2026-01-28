@@ -104,6 +104,9 @@
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-es6-orientacao-a-objetos-parte-1/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-es6-orientacao-a-objetos-parte-1.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-consumindo-tratando-dados-api/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-consumindo-tratando-dados-api.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-criando-requisicoes/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-criando-requisicoes.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
+
+<details>
+  <summary><b>🔍 Ver mais 42 certificados...</b></summary>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-elementos-dom/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-elementos-dom.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-dom/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-dom.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/javascript-manipulando-objetos/certificate"><img src="https://www.alura.com.br/assets/api/cursos/javascript-manipulando-objetos.svg" title="JavaScript" alt="JavaScript" width="60px" margin="5px"/></a>
@@ -146,6 +149,8 @@
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/typescript-tecnicas-boas-praticas/certificate"><img src="https://www.alura.com.br/assets/api/cursos/typescript-tecnicas-boas-praticas.svg" title="Typescript parte 3" alt="Typescript parte 3" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/websockets-implemente-autenticacao-avance-socket-io/certificate"><img src="https://www.alura.com.br/assets/api/cursos/websockets-implemente-autenticacao-avance-socket-io.svg" title="WebSockets" alt="WebSockets" width="60px" margin="5px"/></a>
 <a href="https://cursos.alura.com.br/user/guitarralcs/course/websockets-comunicacoes-tempo-real-socket-io-mongodb/certificate"><img src="https://www.alura.com.br/assets/api/cursos/websockets-comunicacoes-tempo-real-socket-io-mongodb.svg" title="WebSockets" alt="WebSockets" width="60px" margin="5px"/></a>
+</details>
+
 <!--END_SECTION_ALURA:badges-->
 
 ###
