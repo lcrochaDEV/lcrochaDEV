@@ -1,4 +1,4 @@
-name: Update Badges
+name: Update Badges@v1
 
 on:
   schedule:
