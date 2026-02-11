@@ -86,6 +86,11 @@
 
 ###
 
+#<!--START_SECTION_CREDLY:badges-->
+#<!--END_SECTION_CREDLY:badges-->
+
+###
+
 <h1 align="center"></h1>
 
 ![<Alura>](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
