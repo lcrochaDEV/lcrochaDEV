@@ -87,6 +87,9 @@
 ###
 
 <!--START_SECTION_CREDLY:badges-->
+<a href="/badges/63b71f87-0149-45ff-a224-75df5e03eb75"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" title="Python Essentials 1" alt="Python Essentials 1" width="60px" style="margin: 5px;"/></a>
+<a href="/badges/fb5f4478-6430-43eb-bd68-bc715e773fa5"><img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" title="Cisco" alt="Cisco" width="60px" style="margin: 5px;"/></a>
+<a href="/badges/1fb38d38-2ac4-42c3-ba89-cf8f5a516ba4"><img src="https://images.credly.com/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" title="Issued Jul 13, 2024" alt="Issued Jul 13, 2024" width="60px" style="margin: 5px;"/></a>
 <!--END_SECTION_CREDLY:badges-->
 
 ###
