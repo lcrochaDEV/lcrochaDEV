@@ -86,8 +86,8 @@
 
 ###
 
-#<!--START_SECTION_CREDLY:badges-->
-#<!--END_SECTION_CREDLY:badges-->
+<!--START_SECTION_CREDLY:badges-->
+<!--END_SECTION_CREDLY:badges-->
 
 ###
 
