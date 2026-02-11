@@ -1,0 +1,37 @@
+name: Update Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get Alura Badges
+        # Aqui ele chama o SEU repositório como se fosse uma biblioteca
+        uses: lcrochaDEV/barge-readme@beta-version
+        with:
+          username_alura: 'guitarralcs'
+          username_credly: 'lucas-rocha.e2b61fbf'
+          badge_limit: '55'
+
+          #username_generic: 'guitarralcs'
+          #badge_limit: '15'
+          ## Ele só preenche o que quiser usar:
+          #generic_url: 'https://www.exemplo.com/certificados'
+          #xpath_a: '//a[@class="link"]'
+          #xpath_b: '//img[@class="icon"]'
+          #xpath_c: '//span[@class="title"]'
+          
+
+
+#<!--START_SECTION_ALURA:badges-->
+#<!--END_SECTION_ALURA:badges-->
+
