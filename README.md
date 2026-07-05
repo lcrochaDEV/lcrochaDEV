@@ -12,18 +12,19 @@
 
    Preparado em todos os momentos da vida
    
+   ### 🛠️ No que eu trabalho:
  <div id="logo" align="left" style="max-width: 100%;" >
    <img width="200" height="200" align="left" hspace="10" src="https://github.com/lcrochaDEV/lcrochaDEV/blob/main/Pug/Lucas%20Pug_iii.png">
  </div><!--LOGO-->
- 
-   ### 🛠️ No que eu trabalho:
+
    *   **Desenvolvimento Full-Stack:** Criação de aplicações completas, do design da interface à arquitetura do servidor.
    *   **Código Limpo (Clean Code):** Priorizo a escrita de códigos legíveis e de fácil manutenção, seguindo as melhores práticas do mercado.
-   *   **Ecossistema Moderno:** Exploro constantemente novas bibliotecas e frameworks para garantir performance e segurança nos meus projetos.
-   
+   *   **Ecossistema Moderno:** Exploro constantemente novas bibliotecas e frameworks para garantir performance e segurança nos meus projetos.\
+<br /><br />
+#
    ### 🎯 Meus Objetivos:
    Atualmente, estou focado em aprofundar meus conhecimentos em arquitetura de sistemas e contribuir cada vez mais para a comunidade **Open Source**. Acredito que a tecnologia é a ferramenta mais poderosa para resolver problemas do cotidiano e otimizar processos.
-   
+#
    ### 📫 Vamos nos conectar?
    Estou sempre aberto a novos projetos, colaborações e trocas de conhecimento sobre o mundo tech!
    
